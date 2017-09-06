@@ -60,6 +60,7 @@ public class EditorActivity extends AppCompatActivity implements LoaderManager.L
     int EXISTING_PET_LOADER = 0;
     private Uri mCurrentPetData;
     private boolean mPetHasChanged = false;
+    //some changes made here for github
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
